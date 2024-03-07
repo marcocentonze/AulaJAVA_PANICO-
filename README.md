@@ -9,3 +9,7 @@
    //se vuole fare l'automatico allora prendo 1 element random per ogni array
 
    //alla fine chiedo se l'utente è soddisfatto o se vuole rifare
+
+
+Il mio UML lo trovi al link : https://www.canva.com/design/DAF-1hNybVU/M7_onqTwH8BqtZALEwLgsw/edit
+p.s. non avevo calcolato la modalità semi-automatica quando l'ho fatto

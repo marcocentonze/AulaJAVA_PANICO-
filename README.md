@@ -14,4 +14,3 @@
 
 
 Il mio UML lo trovi al link : https://www.canva.com/design/DAF-1hNybVU/M7_onqTwH8BqtZALEwLgsw/edit
-p.s. non avevo calcolato la modalità semi-automatica quando l'ho fatto

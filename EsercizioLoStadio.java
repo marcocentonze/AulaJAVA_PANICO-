@@ -74,6 +74,8 @@ public class EsercizioLoStadio {
     }
 }
 
+//TO DO: AGGIUNGERE METODI MATH.MIN E MAX
+
 // obiettivi:
 // 1 Creare un sistema di id crescente che conti quante persone vengono allo
 // stadio

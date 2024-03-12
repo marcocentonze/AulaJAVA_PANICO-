@@ -1,0 +1,2 @@
+Ho creato un costruttore nella classe PiattoSpeciale dove ho inizializzato dei valori( pane,panePrezzo,farcitura,prezzoFarcitura e totalePiatto).Mi aiuta a calcolare in automatico il prezzo finale.
+In un'altra classe chiamata Menù ho invece creato un metodo "creaPiattoSpeciale" che chiede all'utente le sue preferenza sul pane e sulla farcitura.Prende tutti i vari input e serve per creare il panino perfetto. Per calcolare il prezzo totale creo un nuovo oggetto utlizzando la classe del costruttore(PiattoSpeciale) per utilizzare i suoi metodi e valori.

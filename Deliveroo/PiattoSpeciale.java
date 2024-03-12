@@ -1,11 +1,11 @@
 public class PiattoSpeciale {
     private String tipoPane;
     private String tipoFarcitura;
-    private int panePrezzo;
-    private int prezzoFarcitura;
-    private int totalePiatto;
+    private double panePrezzo;
+    private double prezzoFarcitura;
+    private double totalePiatto;
 
-    public PiattoSpeciale(String pane,int panePrezzo, String farcitura,int prezzoFarcitura) {
+    public PiattoSpeciale(String pane,double panePrezzo, String farcitura,double prezzoFarcitura) {
         this.tipoPane = pane;
         this.panePrezzo = panePrezzo;
         this.tipoFarcitura = farcitura;
@@ -30,7 +30,10 @@ public class PiattoSpeciale {
         this.tipoFarcitura = tipoFarcitura;
     }
 
-    public int getpanePrezzo() {
+    public double getpanePrezzo() {
         return panePrezzo;
+    }
+    public double getTotalePiatto() {
+        return totalePiatto;
     }
 }

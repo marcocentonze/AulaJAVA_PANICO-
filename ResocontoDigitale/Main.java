@@ -7,13 +7,13 @@ public class Main {
         disp.avviaApplicazione("App Webex");
 
         // oggetto smartphone(figlio)
-        DispositivoElettronico smart = disp.new Smartphone("NomeUtente", "PasswordUtente");
+        DispositivoElettronico smart = new Smartphone("NomeUtente", "PasswordUtente");
 
         // chiamo il metodo
         smart.avviaApplicazione("WhatsApp");
 
         // oggetto tablet
-        DispositivoElettronico tablet = new DispositivoElettronico.Tablet();
+        DispositivoElettronico tablet = new Tablet();
 
         // chiamo il metodo
         tablet.avviaApplicazione("Zoom");
